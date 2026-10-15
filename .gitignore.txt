@@ -1,0 +1,6 @@
+uploads/resumes/*
+uploads/logos/*
+!uploads/resumes/.gitkeep
+!uploads/logos/.gitkeep
+Thumbs.db
+.DS_Store
